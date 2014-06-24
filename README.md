@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/wickett/rails-travis-example.svg)](https://travis-ci.org/wickett/rails-travis-example)
+[![Build Status](https://travis-ci.org/philwhln/rails-travis-example.svg)](https://travis-ci.org/philwhln/rails-travis-example)
 
 # Rails Travis Example
 
